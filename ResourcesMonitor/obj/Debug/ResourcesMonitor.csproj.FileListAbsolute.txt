@@ -1,0 +1,8 @@
+C:\Files\for-uni\os\ResourcesMonitor\bin\Debug\ResourcesMonitor.exe.config
+C:\Files\for-uni\os\ResourcesMonitor\bin\Debug\ResourcesMonitor.exe
+C:\Files\for-uni\os\ResourcesMonitor\bin\Debug\ResourcesMonitor.pdb
+C:\Files\for-uni\os\ResourcesMonitor\obj\Debug\ResourcesMonitor.csproj.AssemblyReference.cache
+C:\Files\for-uni\os\ResourcesMonitor\obj\Debug\ResourcesMonitor.csproj.CoreCompileInputs.cache
+C:\Files\for-uni\os\ResourcesMonitor\obj\Debug\ResourcesMonitor.exe
+C:\Files\for-uni\os\ResourcesMonitor\obj\Debug\ResourcesMonitor.pdb
+C:\Files\for-uni\os\ResourcesMonitor\obj\Debug\ResourcesMonitor.exe.config

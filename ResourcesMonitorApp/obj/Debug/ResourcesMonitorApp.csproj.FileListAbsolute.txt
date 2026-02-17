@@ -1,0 +1,10 @@
+C:\Files\for-uni\os\ResourcesMonitorApp\bin\Debug\ResourcesMonitorApp.exe.config
+C:\Files\for-uni\os\ResourcesMonitorApp\bin\Debug\ResourcesMonitorApp.exe
+C:\Files\for-uni\os\ResourcesMonitorApp\bin\Debug\ResourcesMonitorApp.pdb
+C:\Files\for-uni\os\ResourcesMonitorApp\obj\Debug\ResourcesMonitorApp.csproj.AssemblyReference.cache
+C:\Files\for-uni\os\ResourcesMonitorApp\obj\Debug\ResourcesMonitorApp.Properties.Resources.resources
+C:\Files\for-uni\os\ResourcesMonitorApp\obj\Debug\ResourcesMonitorApp.csproj.GenerateResource.cache
+C:\Files\for-uni\os\ResourcesMonitorApp\obj\Debug\ResourcesMonitorApp.csproj.CoreCompileInputs.cache
+C:\Files\for-uni\os\ResourcesMonitorApp\obj\Debug\ResourcesMonitorApp.exe
+C:\Files\for-uni\os\ResourcesMonitorApp\obj\Debug\ResourcesMonitorApp.pdb
+C:\Files\for-uni\os\ResourcesMonitorApp\obj\Debug\ResourcesMonitorApp.exe.config
