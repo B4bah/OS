@@ -7,4 +7,3 @@ C:\Files\for-uni\os\ResourcesMonitorApp-2\obj\Debug\ResourcesMonitorApp-2.csproj
 C:\Files\for-uni\os\ResourcesMonitorApp-2\obj\Debug\ResourcesMonitorApp-2.csproj.CoreCompileInputs.cache
 C:\Files\for-uni\os\ResourcesMonitorApp-2\obj\Debug\ResourcesMonitorApp-2.exe
 C:\Files\for-uni\os\ResourcesMonitorApp-2\obj\Debug\ResourcesMonitorApp-2.pdb
-C:\Files\for-uni\os\ResourcesMonitorApp-2\obj\Debug\ResourcesMonitorApp-2.exe.config
