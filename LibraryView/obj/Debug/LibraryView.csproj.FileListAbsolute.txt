@@ -1,0 +1,10 @@
+C:\Files\Work\os\LibraryView\bin\Debug\LibraryView.exe.config
+C:\Files\Work\os\LibraryView\bin\Debug\LibraryView.exe
+C:\Files\Work\os\LibraryView\bin\Debug\LibraryView.pdb
+C:\Files\Work\os\LibraryView\obj\Debug\LibraryView.csproj.AssemblyReference.cache
+C:\Files\Work\os\LibraryView\obj\Debug\LibraryView.LibraryViewForm.resources
+C:\Files\Work\os\LibraryView\obj\Debug\LibraryView.Properties.Resources.resources
+C:\Files\Work\os\LibraryView\obj\Debug\LibraryView.csproj.GenerateResource.cache
+C:\Files\Work\os\LibraryView\obj\Debug\LibraryView.csproj.CoreCompileInputs.cache
+C:\Files\Work\os\LibraryView\obj\Debug\LibraryView.exe
+C:\Files\Work\os\LibraryView\obj\Debug\LibraryView.pdb
