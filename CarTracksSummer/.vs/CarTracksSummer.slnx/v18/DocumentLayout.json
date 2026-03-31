@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Files\\for-uni\\os\\CarTracksSummer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F7AB6B-DAF0-42D7-89FD-6A8D406F78A5}|CarTracksSummer\\CarTracksSummer.csproj|C:\\Files\\for-uni\\os\\CarTracksSummer\\cartrackssummer\\models\\carlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F7AB6B-DAF0-42D7-89FD-6A8D406F78A5}|CarTracksSummer\\CarTracksSummer.csproj|solutionrelative:cartrackssummer\\models\\carlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F7AB6B-DAF0-42D7-89FD-6A8D406F78A5}|CarTracksSummer\\CarTracksSummer.csproj|c:\\files\\for-uni\\os\\cartrackssummer\\cartrackssummer\\cartrackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F7AB6B-DAF0-42D7-89FD-6A8D406F78A5}|CarTracksSummer\\CarTracksSummer.csproj|solutionrelative:cartrackssummer\\cartrackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F7AB6B-DAF0-42D7-89FD-6A8D406F78A5}|CarTracksSummer\\CarTracksSummer.csproj|C:\\Files\\for-uni\\os\\CarTracksSummer\\cartrackssummer\\cartrackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E2F7AB6B-DAF0-42D7-89FD-6A8D406F78A5}|CarTracksSummer\\CarTracksSummer.csproj|solutionrelative:cartrackssummer\\cartrackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarList.cs",
+              "DocumentMoniker": "C:\\Files\\for-uni\\os\\CarTracksSummer\\CarTracksSummer\\Models\\CarList.cs",
+              "RelativeDocumentMoniker": "CarTracksSummer\\Models\\CarList.cs",
+              "ToolTip": "C:\\Files\\for-uni\\os\\CarTracksSummer\\CarTracksSummer\\Models\\CarList.cs",
+              "RelativeToolTip": "CarTracksSummer\\Models\\CarList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T21:11:05.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarTrackForm.cs",
+              "DocumentMoniker": "C:\\Files\\for-uni\\os\\CarTracksSummer\\CarTracksSummer\\CarTrackForm.cs",
+              "RelativeDocumentMoniker": "CarTracksSummer\\CarTrackForm.cs",
+              "ToolTip": "C:\\Files\\for-uni\\os\\CarTracksSummer\\CarTracksSummer\\CarTrackForm.cs",
+              "RelativeToolTip": "CarTracksSummer\\CarTrackForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T21:05:54.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarTrackForm.cs [Design]",
+              "DocumentMoniker": "C:\\Files\\for-uni\\os\\CarTracksSummer\\CarTracksSummer\\CarTrackForm.cs",
+              "RelativeDocumentMoniker": "CarTracksSummer\\CarTrackForm.cs",
+              "ToolTip": "C:\\Files\\for-uni\\os\\CarTracksSummer\\CarTracksSummer\\CarTrackForm.cs [Design]",
+              "RelativeToolTip": "CarTracksSummer\\CarTrackForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T21:04:36.173Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
