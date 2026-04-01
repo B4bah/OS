@@ -1,42 +1,34 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "WorkspaceRootPath": "C:\\Files\\Work\\os\\ResourcesMonitorApp-2\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A115F14E-7604-4B2D-8FCB-E866932A4880}|ResourcesMonitorApp-2.csproj|c:\\files\\work\\os\\resourcesmonitorapp-2\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A115F14E-7604-4B2D-8FCB-E866932A4880}|ResourcesMonitorApp-2.csproj|solutionrelative:ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A115F14E-7604-4B2D-8FCB-E866932A4880}|ResourcesMonitorApp-2.csproj|C:\\Files\\Work\\os\\ResourcesMonitorApp-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A115F14E-7604-4B2D-8FCB-E866932A4880}|ResourcesMonitorApp-2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A115F14E-7604-4B2D-8FCB-E866932A4880}|ResourcesMonitorApp-2.csproj|C:\\Files\\Work\\os\\ResourcesMonitorApp-2\\data\\wmidataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A115F14E-7604-4B2D-8FCB-E866932A4880}|ResourcesMonitorApp-2.csproj|solutionrelative:data\\wmidataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A115F14E-7604-4B2D-8FCB-E866932A4880}|ResourcesMonitorApp-2.csproj|C:\\Files\\Work\\os\\ResourcesMonitorApp-2\\models\\wmiclassinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A115F14E-7604-4B2D-8FCB-E866932A4880}|ResourcesMonitorApp-2.csproj|solutionrelative:models\\wmiclassinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A115F14E-7604-4B2D-8FCB-E866932A4880}|ResourcesMonitorApp-2.csproj|C:\\Files\\Work\\os\\ResourcesMonitorApp-2\\data\\systeminfomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A115F14E-7604-4B2D-8FCB-E866932A4880}|ResourcesMonitorApp-2.csproj|solutionrelative:data\\systeminfomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A115F14E-7604-4B2D-8FCB-E866932A4880}|ResourcesMonitorApp-2.csproj|C:\\Files\\Work\\os\\ResourcesMonitorApp-2\\models\\wmicategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A115F14E-7604-4B2D-8FCB-E866932A4880}|ResourcesMonitorApp-2.csproj|solutionrelative:models\\wmicategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A115F14E-7604-4B2D-8FCB-E866932A4880}|ResourcesMonitorApp-2.csproj|C:\\Files\\Work\\os\\ResourcesMonitorApp-2\\models\\wmiproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A115F14E-7604-4B2D-8FCB-E866932A4880}|ResourcesMonitorApp-2.csproj|solutionrelative:models\\wmiproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
   "WorkspaceRootPath": "C:\\Files\\for-uni\\os\\ResourcesMonitorApp-2\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{A115F14E-7604-4B2D-8FCB-E866932A4880}|ResourcesMonitorApp-2.csproj|c:\\files\\for-uni\\os\\resourcesmonitorapp-2\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A115F14E-7604-4B2D-8FCB-E866932A4880}|ResourcesMonitorApp-2.csproj|solutionrelative:ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> fc9201b958fb932f6e60f439093e2769191cbc2d
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A115F14E-7604-4B2D-8FCB-E866932A4880}|ResourcesMonitorApp-2.csproj|C:\\Files\\for-uni\\os\\ResourcesMonitorApp-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A115F14E-7604-4B2D-8FCB-E866932A4880}|ResourcesMonitorApp-2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A115F14E-7604-4B2D-8FCB-E866932A4880}|ResourcesMonitorApp-2.csproj|C:\\Files\\for-uni\\os\\ResourcesMonitorApp-2\\data\\wmidataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A115F14E-7604-4B2D-8FCB-E866932A4880}|ResourcesMonitorApp-2.csproj|solutionrelative:data\\wmidataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A115F14E-7604-4B2D-8FCB-E866932A4880}|ResourcesMonitorApp-2.csproj|C:\\Files\\for-uni\\os\\ResourcesMonitorApp-2\\models\\wmiclassinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A115F14E-7604-4B2D-8FCB-E866932A4880}|ResourcesMonitorApp-2.csproj|solutionrelative:models\\wmiclassinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A115F14E-7604-4B2D-8FCB-E866932A4880}|ResourcesMonitorApp-2.csproj|C:\\Files\\for-uni\\os\\ResourcesMonitorApp-2\\data\\systeminfomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A115F14E-7604-4B2D-8FCB-E866932A4880}|ResourcesMonitorApp-2.csproj|solutionrelative:data\\systeminfomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A115F14E-7604-4B2D-8FCB-E866932A4880}|ResourcesMonitorApp-2.csproj|C:\\Files\\for-uni\\os\\ResourcesMonitorApp-2\\models\\wmicategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A115F14E-7604-4B2D-8FCB-E866932A4880}|ResourcesMonitorApp-2.csproj|solutionrelative:models\\wmicategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A115F14E-7604-4B2D-8FCB-E866932A4880}|ResourcesMonitorApp-2.csproj|C:\\Files\\for-uni\\os\\ResourcesMonitorApp-2\\models\\wmiproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A115F14E-7604-4B2D-8FCB-E866932A4880}|ResourcesMonitorApp-2.csproj|solutionrelative:models\\wmiproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,98 +44,86 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainForm.cs",
-<<<<<<< HEAD
-              "DocumentMoniker": "C:\\Files\\Work\\os\\ResourcesMonitorApp-2\\UI\\MainForm.cs",
+              "DocumentMoniker": "C:\\Files\\for-uni\\os\\ResourcesMonitorApp-2\\UI\\MainForm.cs",
               "RelativeDocumentMoniker": "UI\\MainForm.cs",
-              "ToolTip": "C:\\Files\\Work\\os\\ResourcesMonitorApp-2\\UI\\MainForm.cs*",
-              "RelativeToolTip": "UI\\MainForm.cs*",
+              "ToolTip": "C:\\Files\\for-uni\\os\\ResourcesMonitorApp-2\\UI\\MainForm.cs",
+              "RelativeToolTip": "UI\\MainForm.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAswDcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T20:00:41.485Z",
+              "WhenOpened": "2026-03-31T16:30:02.546Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Files\\Work\\os\\ResourcesMonitorApp-2\\Program.cs",
+              "DocumentMoniker": "C:\\Files\\for-uni\\os\\ResourcesMonitorApp-2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Files\\Work\\os\\ResourcesMonitorApp-2\\Program.cs",
+              "ToolTip": "C:\\Files\\for-uni\\os\\ResourcesMonitorApp-2\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T20:00:41.372Z"
+              "WhenOpened": "2026-03-31T16:30:02.83Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "SystemInfoManager.cs",
-              "DocumentMoniker": "C:\\Files\\Work\\os\\ResourcesMonitorApp-2\\Data\\SystemInfoManager.cs",
+              "DocumentMoniker": "C:\\Files\\for-uni\\os\\ResourcesMonitorApp-2\\Data\\SystemInfoManager.cs",
               "RelativeDocumentMoniker": "Data\\SystemInfoManager.cs",
-              "ToolTip": "C:\\Files\\Work\\os\\ResourcesMonitorApp-2\\Data\\SystemInfoManager.cs",
+              "ToolTip": "C:\\Files\\for-uni\\os\\ResourcesMonitorApp-2\\Data\\SystemInfoManager.cs",
               "RelativeToolTip": "Data\\SystemInfoManager.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T20:00:41.647Z"
+              "WhenOpened": "2026-03-31T16:30:02.832Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "WmiClassInfo.cs",
-              "DocumentMoniker": "C:\\Files\\Work\\os\\ResourcesMonitorApp-2\\Models\\WmiClassInfo.cs",
+              "DocumentMoniker": "C:\\Files\\for-uni\\os\\ResourcesMonitorApp-2\\Models\\WmiClassInfo.cs",
               "RelativeDocumentMoniker": "Models\\WmiClassInfo.cs",
-              "ToolTip": "C:\\Files\\Work\\os\\ResourcesMonitorApp-2\\Models\\WmiClassInfo.cs",
+              "ToolTip": "C:\\Files\\for-uni\\os\\ResourcesMonitorApp-2\\Models\\WmiClassInfo.cs",
               "RelativeToolTip": "Models\\WmiClassInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T20:00:41.649Z"
+              "WhenOpened": "2026-03-31T16:30:02.833Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "WmiCategory.cs",
-              "DocumentMoniker": "C:\\Files\\Work\\os\\ResourcesMonitorApp-2\\Models\\WmiCategory.cs",
+              "DocumentMoniker": "C:\\Files\\for-uni\\os\\ResourcesMonitorApp-2\\Models\\WmiCategory.cs",
               "RelativeDocumentMoniker": "Models\\WmiCategory.cs",
-              "ToolTip": "C:\\Files\\Work\\os\\ResourcesMonitorApp-2\\Models\\WmiCategory.cs",
+              "ToolTip": "C:\\Files\\for-uni\\os\\ResourcesMonitorApp-2\\Models\\WmiCategory.cs",
               "RelativeToolTip": "Models\\WmiCategory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T20:00:41.651Z"
+              "WhenOpened": "2026-03-31T16:30:02.834Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "WmiDataProvider.cs",
-              "DocumentMoniker": "C:\\Files\\Work\\os\\ResourcesMonitorApp-2\\Data\\WmiDataProvider.cs",
+              "DocumentMoniker": "C:\\Files\\for-uni\\os\\ResourcesMonitorApp-2\\Data\\WmiDataProvider.cs",
               "RelativeDocumentMoniker": "Data\\WmiDataProvider.cs",
-              "ToolTip": "C:\\Files\\Work\\os\\ResourcesMonitorApp-2\\Data\\WmiDataProvider.cs",
+              "ToolTip": "C:\\Files\\for-uni\\os\\ResourcesMonitorApp-2\\Data\\WmiDataProvider.cs",
               "RelativeToolTip": "Data\\WmiDataProvider.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T20:00:41.653Z"
+              "WhenOpened": "2026-03-31T16:30:02.834Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "WmiProperty.cs",
-              "DocumentMoniker": "C:\\Files\\Work\\os\\ResourcesMonitorApp-2\\Models\\WmiProperty.cs",
+              "DocumentMoniker": "C:\\Files\\for-uni\\os\\ResourcesMonitorApp-2\\Models\\WmiProperty.cs",
               "RelativeDocumentMoniker": "Models\\WmiProperty.cs",
-              "ToolTip": "C:\\Files\\Work\\os\\ResourcesMonitorApp-2\\Models\\WmiProperty.cs",
+              "ToolTip": "C:\\Files\\for-uni\\os\\ResourcesMonitorApp-2\\Models\\WmiProperty.cs",
               "RelativeToolTip": "Models\\WmiProperty.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T20:00:41.655Z"
-=======
-              "DocumentMoniker": "C:\\Files\\for-uni\\os\\ResourcesMonitorApp-2\\UI\\MainForm.cs",
-              "RelativeDocumentMoniker": "UI\\MainForm.cs",
-              "ToolTip": "C:\\Files\\for-uni\\os\\ResourcesMonitorApp-2\\UI\\MainForm.cs",
-              "RelativeToolTip": "UI\\MainForm.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T22:52:02.706Z",
-              "IsPinned": true,
-              "EditorCaption": ""
->>>>>>> fc9201b958fb932f6e60f439093e2769191cbc2d
+              "WhenOpened": "2026-03-31T16:30:02.835Z"
             }
           ]
         }

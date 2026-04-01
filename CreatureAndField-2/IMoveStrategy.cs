@@ -9,6 +9,6 @@ namespace CreatureAndField_2
 {
     public interface IMoveStrategy
     {
-        Point NextMove(Point currentPos, Field field);
+        bool NextMove();
     }
 }

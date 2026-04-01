@@ -11,6 +11,6 @@
 
     public override string ToString()
     {
-        return $"x: {X.ToString()}, y: {Y.ToString()}";
+        return $"({X.ToString()}, {Y.ToString()})";
     }
 }

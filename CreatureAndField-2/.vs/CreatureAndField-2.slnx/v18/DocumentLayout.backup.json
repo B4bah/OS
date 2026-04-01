@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Files\\Work\\os\\CreatureAndField-2\\",
+  "WorkspaceRootPath": "C:\\Files\\for-uni\\os\\CreatureAndField-2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|C:\\Files\\Work\\os\\CreatureAndField-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|C:\\Files\\for-uni\\os\\CreatureAndField-2\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|solutionrelative:point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|C:\\Files\\Work\\os\\CreatureAndField-2\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|solutionrelative:creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|C:\\Files\\Work\\os\\CreatureAndField-2\\imovestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|solutionrelative:imovestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|c:\\files\\work\\os\\creatureandfield-2\\ifield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|solutionrelative:ifield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|C:\\Files\\Work\\os\\CreatureAndField-2\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|c:\\files\\for-uni\\os\\creatureandfield-2\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|solutionrelative:field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|C:\\Files\\Work\\os\\CreatureAndField-2\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|solutionrelative:point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|C:\\Files\\for-uni\\os\\CreatureAndField-2\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|solutionrelative:creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|C:\\Files\\for-uni\\os\\CreatureAndField-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|C:\\Files\\for-uni\\os\\CreatureAndField-2\\ifield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|solutionrelative:ifield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|C:\\Files\\for-uni\\os\\CreatureAndField-2\\imovestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|solutionrelative:imovestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,17 +34,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Files\\Work\\os\\CreatureAndField-2\\Program.cs",
+              "DocumentMoniker": "C:\\Files\\for-uni\\os\\CreatureAndField-2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Files\\Work\\os\\CreatureAndField-2\\Program.cs",
+              "ToolTip": "C:\\Files\\for-uni\\os\\CreatureAndField-2\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T06:11:35.481Z",
               "IsPinned": true,
@@ -52,13 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Creature.cs",
-              "DocumentMoniker": "C:\\Files\\Work\\os\\CreatureAndField-2\\Creature.cs",
+              "DocumentMoniker": "C:\\Files\\for-uni\\os\\CreatureAndField-2\\Creature.cs",
               "RelativeDocumentMoniker": "Creature.cs",
-              "ToolTip": "C:\\Files\\Work\\os\\CreatureAndField-2\\Creature.cs",
+              "ToolTip": "C:\\Files\\for-uni\\os\\CreatureAndField-2\\Creature.cs",
               "RelativeToolTip": "Creature.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwC8AAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T06:11:49.784Z",
               "IsPinned": true,
@@ -66,13 +66,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Field.cs",
-              "DocumentMoniker": "C:\\Files\\Work\\os\\CreatureAndField-2\\Field.cs",
+              "DocumentMoniker": "C:\\Files\\for-uni\\os\\CreatureAndField-2\\Field.cs",
               "RelativeDocumentMoniker": "Field.cs",
-              "ToolTip": "C:\\Files\\Work\\os\\CreatureAndField-2\\Field.cs",
+              "ToolTip": "C:\\Files\\for-uni\\os\\CreatureAndField-2\\Field.cs",
               "RelativeToolTip": "Field.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T06:11:59.148Z",
               "IsPinned": true,
@@ -80,13 +80,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IField.cs",
-              "DocumentMoniker": "C:\\Files\\Work\\os\\CreatureAndField-2\\IField.cs",
+              "DocumentMoniker": "C:\\Files\\for-uni\\os\\CreatureAndField-2\\IField.cs",
               "RelativeDocumentMoniker": "IField.cs",
-              "ToolTip": "C:\\Files\\Work\\os\\CreatureAndField-2\\IField.cs",
+              "ToolTip": "C:\\Files\\for-uni\\os\\CreatureAndField-2\\IField.cs",
               "RelativeToolTip": "IField.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T06:12:29.512Z",
               "IsPinned": true,
@@ -94,13 +94,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Point.cs",
-              "DocumentMoniker": "C:\\Files\\Work\\os\\CreatureAndField-2\\Point.cs",
+              "DocumentMoniker": "C:\\Files\\for-uni\\os\\CreatureAndField-2\\Point.cs",
               "RelativeDocumentMoniker": "Point.cs",
-              "ToolTip": "C:\\Files\\Work\\os\\CreatureAndField-2\\Point.cs",
+              "ToolTip": "C:\\Files\\for-uni\\os\\CreatureAndField-2\\Point.cs",
               "RelativeToolTip": "Point.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wA0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T06:12:08.475Z",
               "IsPinned": true,
@@ -108,13 +108,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "IMoveStrategy.cs",
-              "DocumentMoniker": "C:\\Files\\Work\\os\\CreatureAndField-2\\IMoveStrategy.cs",
+              "DocumentMoniker": "C:\\Files\\for-uni\\os\\CreatureAndField-2\\IMoveStrategy.cs",
               "RelativeDocumentMoniker": "IMoveStrategy.cs",
-              "ToolTip": "C:\\Files\\Work\\os\\CreatureAndField-2\\IMoveStrategy.cs",
+              "ToolTip": "C:\\Files\\for-uni\\os\\CreatureAndField-2\\IMoveStrategy.cs",
               "RelativeToolTip": "IMoveStrategy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T08:08:50.766Z",
               "EditorCaption": ""

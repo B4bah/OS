@@ -4,8 +4,10 @@ using System.Text;
 
 namespace CreatureAndField
 {
-    internal interface IField
+    public interface IField
     {
         bool CanMove(Point position);
+
+        void PaintTheCell(Point position);
     }
 }

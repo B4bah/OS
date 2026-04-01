@@ -46,22 +46,18 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainForm.cs",
+<<<<<<< HEAD
               "DocumentMoniker": "C:\\Files\\Work\\os\\ResourcesMonitorApp-2\\UI\\MainForm.cs",
               "RelativeDocumentMoniker": "UI\\MainForm.cs",
-              "ToolTip": "C:\\Files\\Work\\os\\ResourcesMonitorApp-2\\UI\\MainForm.cs",
-              "RelativeToolTip": "UI\\MainForm.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowDcAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Files\\Work\\os\\ResourcesMonitorApp-2\\UI\\MainForm.cs*",
+              "RelativeToolTip": "UI\\MainForm.cs*",
+              "ViewState": "AgIAACcAAAAAAAAAAAAswDcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-17T20:00:41.485Z",
               "EditorCaption": ""
@@ -76,8 +72,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T20:00:41.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T20:00:41.372Z"
             },
             {
               "$type": "Document",
@@ -139,12 +134,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-17T20:00:41.655Z"
 =======
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Files\\for-uni\\os\\ResourcesMonitorApp-2\\UI\\MainForm.cs",
               "RelativeDocumentMoniker": "UI\\MainForm.cs",
               "ToolTip": "C:\\Files\\for-uni\\os\\ResourcesMonitorApp-2\\UI\\MainForm.cs",

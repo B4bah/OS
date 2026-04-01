@@ -9,6 +9,7 @@ namespace CreatureAndField
     {
         private int _width;
         private int _height;
+        private HashSet<Point> _filledCells = new HashSet<Point>();
 
         public Field(int width, int height)
         {
@@ -18,12 +19,28 @@ namespace CreatureAndField
 
         public bool CanMove(Point pos)
         {
-            return IsValid(pos);
+            return IsValid(pos) && IsFree(pos);
         }
 
-        private bool IsValid(Point position)
+        public void PaintTheCell(Point pos)
         {
-            return position.X < _width && position.Y < _height;
+            _filledCells.Add(pos);
+        }
+
+        private bool IsValid(Point pos)
+        {
+            //return pos.X < _width && pos.Y < _height;
+            return pos.X >= 0 && pos.X < _width && pos.Y >= 0 && pos.Y < _height;
+        }
+
+        private bool IsFree(Point pos)
+        {
+            return !_filledCells.Contains(pos);
+        }
+
+        public override string ToString()
+        {
+            return $"[{string.Join(", ", _filledCells)}]";
         }
     }
 }
