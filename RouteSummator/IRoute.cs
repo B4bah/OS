@@ -8,6 +8,6 @@ namespace RouteSummator
 {
     public interface IRoute
     {
-        void Fill();
+        void Fill(Point point);
     }
 }
