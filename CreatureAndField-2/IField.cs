@@ -8,6 +8,6 @@ namespace CreatureAndField
     {
         bool CanMove(Point position);
 
-        void PaintTheCell(Point position);
+        void PaintTheCell(Point position, int mark);
     }
 }

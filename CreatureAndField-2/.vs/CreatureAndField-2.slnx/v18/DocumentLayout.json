@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Files\\Work\\os\\CreatureAndField-2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|c:\\files\\work\\os\\creatureandfield-2\\markedpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|solutionrelative:markedpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|C:\\Files\\Work\\os\\CreatureAndField-2\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|solutionrelative:point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|C:\\Files\\Work\\os\\CreatureAndField-2\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|solutionrelative:field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|C:\\Files\\Work\\os\\CreatureAndField-2\\ifield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|solutionrelative:ifield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|c:\\files\\work\\os\\creatureandfield-2\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|solutionrelative:creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,18 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|C:\\Files\\Work\\os\\CreatureAndField-2\\imovestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|solutionrelative:imovestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|C:\\Files\\Work\\os\\CreatureAndField-2\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|solutionrelative:field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|C:\\Files\\Work\\os\\CreatureAndField-2\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|solutionrelative:point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|C:\\Files\\Work\\os\\CreatureAndField-2\\ifield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57958848-1658-41F4-8B26-FDB3E931AF13}|CreatureAndField-2.csproj|solutionrelative:ifield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Files\\Work\\os\\CreatureAndField-2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -52,13 +56,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Creature.cs",
               "DocumentMoniker": "C:\\Files\\Work\\os\\CreatureAndField-2\\Creature.cs",
               "RelativeDocumentMoniker": "Creature.cs",
               "ToolTip": "C:\\Files\\Work\\os\\CreatureAndField-2\\Creature.cs",
               "RelativeToolTip": "Creature.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAQwCcAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwCsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T06:11:49.784Z",
               "IsPinned": true,
@@ -66,13 +70,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Field.cs",
               "DocumentMoniker": "C:\\Files\\Work\\os\\CreatureAndField-2\\Field.cs",
               "RelativeDocumentMoniker": "Field.cs",
               "ToolTip": "C:\\Files\\Work\\os\\CreatureAndField-2\\Field.cs",
               "RelativeToolTip": "Field.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCAAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowCcAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T06:11:59.148Z",
               "IsPinned": true,
@@ -80,33 +84,48 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "IField.cs",
               "DocumentMoniker": "C:\\Files\\Work\\os\\CreatureAndField-2\\IField.cs",
               "RelativeDocumentMoniker": "IField.cs",
               "ToolTip": "C:\\Files\\Work\\os\\CreatureAndField-2\\IField.cs",
               "RelativeToolTip": "IField.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T06:12:29.512Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Point.cs",
               "DocumentMoniker": "C:\\Files\\Work\\os\\CreatureAndField-2\\Point.cs",
               "RelativeDocumentMoniker": "Point.cs",
               "ToolTip": "C:\\Files\\Work\\os\\CreatureAndField-2\\Point.cs",
               "RelativeToolTip": "Point.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAA6wA8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T06:12:08.475Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "MarkedPoint.cs",
+              "DocumentMoniker": "C:\\Files\\Work\\os\\CreatureAndField-2\\MarkedPoint.cs",
+              "RelativeDocumentMoniker": "MarkedPoint.cs",
+              "ToolTip": "C:\\Files\\Work\\os\\CreatureAndField-2\\MarkedPoint.cs",
+              "RelativeToolTip": "MarkedPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T08:38:12.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "IMoveStrategy.cs",
               "DocumentMoniker": "C:\\Files\\Work\\os\\CreatureAndField-2\\IMoveStrategy.cs",
               "RelativeDocumentMoniker": "IMoveStrategy.cs",
@@ -114,8 +133,7 @@
               "RelativeToolTip": "IMoveStrategy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T08:08:50.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T08:08:50.766Z"
             }
           ]
         }

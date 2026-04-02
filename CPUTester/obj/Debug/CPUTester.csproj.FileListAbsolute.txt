@@ -1,0 +1,7 @@
+C:\Files\Work\os\CPUTester\obj\Debug\CPUTester.csproj.AssemblyReference.cache
+C:\Files\Work\os\CPUTester\obj\Debug\CPUTester.csproj.CoreCompileInputs.cache
+C:\Files\Work\os\CPUTester\bin\Debug\CPUTester.exe.config
+C:\Files\Work\os\CPUTester\bin\Debug\CPUTester.exe
+C:\Files\Work\os\CPUTester\bin\Debug\CPUTester.pdb
+C:\Files\Work\os\CPUTester\obj\Debug\CPUTester.exe
+C:\Files\Work\os\CPUTester\obj\Debug\CPUTester.pdb

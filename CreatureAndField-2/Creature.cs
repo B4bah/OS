@@ -22,6 +22,7 @@ namespace CreatureAndField
         private Direction _currentDirection;
         private string _name;
         private IField _iField;
+        private int _moves;
 
         public Creature(Point pos, string name, IField iField)
         {
@@ -29,11 +30,12 @@ namespace CreatureAndField
             _currentDirection = Direction.East;
             _name = name;
             _iField = iField;
+            _moves = 0;
         }
 
         public bool NextMove()
         {
-            _iField.PaintTheCell(_pos);
+            _iField.PaintTheCell(_pos, _moves);
             int turnCounter = 0;
             while (turnCounter < 4)
             {
@@ -43,6 +45,7 @@ namespace CreatureAndField
                 {
                     //Console.WriteLine($"Can move {ToString()} {turnCounter.ToString()}");
                     _pos = nextPos;
+                    _moves++;
                     return true;
                 }
                 //Console.WriteLine($"Can't move {ToString()} {turnCounter.ToString()}");

@@ -1,0 +1,7 @@
+C:\Files\Work\os\ListSummator\bin\Release\ListSummator.exe.config
+C:\Files\Work\os\ListSummator\bin\Release\ListSummator.exe
+C:\Files\Work\os\ListSummator\bin\Release\ListSummator.pdb
+C:\Files\Work\os\ListSummator\obj\Release\ListSummator.csproj.AssemblyReference.cache
+C:\Files\Work\os\ListSummator\obj\Release\ListSummator.csproj.CoreCompileInputs.cache
+C:\Files\Work\os\ListSummator\obj\Release\ListSummator.exe
+C:\Files\Work\os\ListSummator\obj\Release\ListSummator.pdb

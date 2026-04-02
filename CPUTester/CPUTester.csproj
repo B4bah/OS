@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{57958848-1658-41F4-8B26-FDB3E931AF13}</ProjectGuid>
+    <ProjectGuid>{8499048A-D372-4F55-B6B9-01681B3714A6}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CreatureAndField_2</RootNamespace>
-    <AssemblyName>CreatureAndField-2</AssemblyName>
+    <RootNamespace>CPUTester</RootNamespace>
+    <AssemblyName>CPUTester</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,12 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Creature.cs" />
-    <Compile Include="Field.cs" />
-    <Compile Include="IField.cs" />
-    <Compile Include="IMoveStrategy.cs" />
-    <Compile Include="MarkedPoint.cs" />
-    <Compile Include="Point.cs" />
+    <Compile Include="BurnThread.cs" />
+    <Compile Include="Loader.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

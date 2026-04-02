@@ -1,6 +1,8 @@
 ﻿using CreatureAndField_2;
 using System;
 using System.Collections.Generic;
+using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 
 namespace CreatureAndField
@@ -9,7 +11,7 @@ namespace CreatureAndField
     {
         private int _width;
         private int _height;
-        private HashSet<Point> _filledCells = new HashSet<Point>();
+        private HashSet<MarkedPoint> _filledCells = new HashSet<MarkedPoint>();
 
         public Field(int width, int height)
         {
@@ -22,9 +24,9 @@ namespace CreatureAndField
             return IsValid(pos) && IsFree(pos);
         }
 
-        public void PaintTheCell(Point pos)
+        public void PaintTheCell(Point pos, int mark)
         {
-            _filledCells.Add(pos);
+            _filledCells.Add(new MarkedPoint(pos, mark));
         }
 
         private bool IsValid(Point pos)
@@ -35,7 +37,7 @@ namespace CreatureAndField
 
         private bool IsFree(Point pos)
         {
-            return !_filledCells.Contains(pos);
+            return !_filledCells.Any(markedPoint => markedPoint.Pos.Equals(pos));
         }
 
         public override string ToString()
