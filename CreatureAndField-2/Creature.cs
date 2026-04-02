@@ -33,6 +33,7 @@ namespace CreatureAndField
 
         public bool NextMove()
         {
+            _iField.PaintTheCell(_pos);
             int turnCounter = 0;
             while (turnCounter < 4)
             {
@@ -42,7 +43,6 @@ namespace CreatureAndField
                 {
                     //Console.WriteLine($"Can move {ToString()} {turnCounter.ToString()}");
                     _pos = nextPos;
-                    _iField.PaintTheCell(_pos);
                     return true;
                 }
                 //Console.WriteLine($"Can't move {ToString()} {turnCounter.ToString()}");
