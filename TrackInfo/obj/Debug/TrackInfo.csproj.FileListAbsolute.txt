@@ -1,4 +1,0 @@
-C:\Files\Work\os\TrackInfo\obj\Debug\TrackInfo.csproj.AssemblyReference.cache
-C:\Files\Work\os\TrackInfo\obj\Debug\TrackInfo.Properties.Resources.resources
-C:\Files\Work\os\TrackInfo\obj\Debug\TrackInfo.csproj.GenerateResource.cache
-C:\Files\Work\os\TrackInfo\obj\Debug\TrackInfo.csproj.CoreCompileInputs.cache

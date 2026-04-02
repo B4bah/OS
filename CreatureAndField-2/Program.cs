@@ -7,14 +7,6 @@ using System.Threading.Tasks;
 
 namespace CreatureAndField_2
 {
-
-    public class TestMoveStrategy : IMoveStrategy
-    {
-        public bool NextMove()
-        {
-            throw new NotImplementedException();
-        }
-    }
     internal class Program
     {
         static void Main(string[] args)
@@ -23,21 +15,17 @@ namespace CreatureAndField_2
             Point spawnPos = new Point(0, 9);
             Creature creature = new Creature(spawnPos, "TestCreature", field);
 
-            Console.WriteLine("The start of the test: ");
             Console.WriteLine(creature.ToString() + "\n");
+            Console.WriteLine("The start of the test: ");
             while (true)
             {
-                //Console.WriteLine(field.ToString());
                 if (!creature.NextMove())
                 {
                     break;
                 }
-                //Console.WriteLine(field.ToString());
                 Console.WriteLine(creature.ToString());
-                //break;
             }
             Console.WriteLine("The end of the test");
-            Console.WriteLine(field.ToString());
             Console.ReadLine();
         }
     }

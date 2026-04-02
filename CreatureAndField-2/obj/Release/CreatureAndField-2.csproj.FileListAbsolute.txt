@@ -5,3 +5,10 @@ C:\Files\for-uni\os\CreatureAndField-2\obj\Release\CreatureAndField-2.csproj.Ass
 C:\Files\for-uni\os\CreatureAndField-2\obj\Release\CreatureAndField-2.csproj.CoreCompileInputs.cache
 C:\Files\for-uni\os\CreatureAndField-2\obj\Release\CreatureAndField-2.exe
 C:\Files\for-uni\os\CreatureAndField-2\obj\Release\CreatureAndField-2.pdb
+C:\Files\Work\os\CreatureAndField-2\bin\Release\CreatureAndField-2.exe.config
+C:\Files\Work\os\CreatureAndField-2\bin\Release\CreatureAndField-2.exe
+C:\Files\Work\os\CreatureAndField-2\bin\Release\CreatureAndField-2.pdb
+C:\Files\Work\os\CreatureAndField-2\obj\Release\CreatureAndField-2.csproj.AssemblyReference.cache
+C:\Files\Work\os\CreatureAndField-2\obj\Release\CreatureAndField-2.csproj.CoreCompileInputs.cache
+C:\Files\Work\os\CreatureAndField-2\obj\Release\CreatureAndField-2.exe
+C:\Files\Work\os\CreatureAndField-2\obj\Release\CreatureAndField-2.pdb

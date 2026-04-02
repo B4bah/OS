@@ -40,15 +40,12 @@ namespace CreatureAndField
             while (turnCounter < 4)
             {
                 Point nextPos = NextCell();
-                //Console.WriteLine($"Next cell is {nextPos.ToString()}");
                 if (_iField.CanMove(nextPos))
                 {
-                    //Console.WriteLine($"Can move {ToString()} {turnCounter.ToString()}");
                     _pos = nextPos;
                     _moves++;
                     return true;
                 }
-                //Console.WriteLine($"Can't move {ToString()} {turnCounter.ToString()}");
                 Turn();
                 turnCounter++;
             }
@@ -79,7 +76,7 @@ namespace CreatureAndField
 
         public override string ToString()
         {
-            return $"{_name}: {_pos.ToString()}, direction: {_currentDirection.ToString()}"; 
+            return $"{_name}: {_pos.ToString()}, direction: {_currentDirection.ToString()}. Marked {_moves.ToString()}"; 
         }
     }
 }

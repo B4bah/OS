@@ -31,7 +31,6 @@ namespace CreatureAndField
 
         private bool IsValid(Point pos)
         {
-            //return pos.X < _width && pos.Y < _height;
             return pos.X >= 0 && pos.X < _width && pos.Y >= 0 && pos.Y < _height;
         }
 
