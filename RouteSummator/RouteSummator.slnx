@@ -1,3 +1,7 @@
 <Solution>
+<<<<<<< HEAD
   <Project Path="RouteSummator.csproj" Id="b1015f2c-5f61-406a-9ae8-2433c5869f3a" />
+=======
+  <Project Path="../../../../../../../../Files/for-uni/os/RouteSummator/RouteSummator.csproj" Id="b1015f2c-5f61-406a-9ae8-2433c5869f3a" />
+>>>>>>> 37968f6effea842e2fc493f1e11f48a923bc24db
 </Solution>

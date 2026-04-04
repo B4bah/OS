@@ -1,8 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Files\\Work\\os\\RouteSummator\\",
+  "WorkspaceRootPath": "C:\\Files\\for-uni\\os\\RouteSummator\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{B1015F2C-5F61-406A-9AE8-2433C5869F3A}|RouteSummator.csproj|C:\\Files\\Work\\os\\RouteSummator\\iroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1015F2C-5F61-406A-9AE8-2433C5869F3A}|RouteSummator.csproj|solutionrelative:iroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -28,6 +29,21 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{B1015F2C-5F61-406A-9AE8-2433C5869F3A}|RouteSummator.csproj|C:\\Files\\Work\\os\\RouteSummator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+      "AbsoluteMoniker": "D:0:0:{B1015F2C-5F61-406A-9AE8-2433C5869F3A}|RouteSummator.csproj|C:\\Files\\for-uni\\os\\RouteSummator\\iroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1015F2C-5F61-406A-9AE8-2433C5869F3A}|RouteSummator.csproj|solutionrelative:iroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1015F2C-5F61-406A-9AE8-2433C5869F3A}|RouteSummator.csproj|c:\\files\\for-uni\\os\\routesummator\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1015F2C-5F61-406A-9AE8-2433C5869F3A}|RouteSummator.csproj|solutionrelative:route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1015F2C-5F61-406A-9AE8-2433C5869F3A}|RouteSummator.csproj|C:\\Files\\for-uni\\os\\RouteSummator\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1015F2C-5F61-406A-9AE8-2433C5869F3A}|RouteSummator.csproj|solutionrelative:point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1015F2C-5F61-406A-9AE8-2433C5869F3A}|RouteSummator.csproj|C:\\Files\\for-uni\\os\\RouteSummator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 37968f6effea842e2fc493f1e11f48a923bc24db
       "RelativeMoniker": "D:0:0:{B1015F2C-5F61-406A-9AE8-2433C5869F3A}|RouteSummator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,11 +58,15 @@
           "Children": [
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 6,
+=======
+              "DocumentIndex": 3,
+>>>>>>> 37968f6effea842e2fc493f1e11f48a923bc24db
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Files\\Work\\os\\RouteSummator\\Program.cs",
+              "DocumentMoniker": "C:\\Files\\for-uni\\os\\RouteSummator\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Files\\Work\\os\\RouteSummator\\Program.cs",
+              "ToolTip": "C:\\Files\\for-uni\\os\\RouteSummator\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -55,6 +75,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 3,
               "Title": "Route.cs",
               "DocumentMoniker": "C:\\Files\\Work\\os\\RouteSummator\\Route.cs",
@@ -77,11 +98,23 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-02T14:26:23.463Z",
+=======
+              "DocumentIndex": 1,
+              "Title": "Route.cs",
+              "DocumentMoniker": "C:\\Files\\for-uni\\os\\RouteSummator\\Route.cs",
+              "RelativeDocumentMoniker": "Route.cs",
+              "ToolTip": "C:\\Files\\for-uni\\os\\RouteSummator\\Route.cs",
+              "RelativeToolTip": "Route.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T14:19:49.982Z",
+>>>>>>> 37968f6effea842e2fc493f1e11f48a923bc24db
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 1,
               "Title": "RouteStorage.cs",
               "DocumentMoniker": "C:\\Files\\Work\\os\\RouteSummator\\RouteStorage.cs",
@@ -92,11 +125,23 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-03T11:04:14.881Z",
               "IsPinned": true,
+=======
+              "DocumentIndex": 0,
+              "Title": "IRoute.cs",
+              "DocumentMoniker": "C:\\Files\\for-uni\\os\\RouteSummator\\IRoute.cs",
+              "RelativeDocumentMoniker": "IRoute.cs",
+              "ToolTip": "C:\\Files\\for-uni\\os\\RouteSummator\\IRoute.cs",
+              "RelativeToolTip": "IRoute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T14:26:23.463Z",
+>>>>>>> 37968f6effea842e2fc493f1e11f48a923bc24db
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+<<<<<<< HEAD
               "Title": "RouteDataProvider.cs",
               "DocumentMoniker": "C:\\Files\\Work\\os\\RouteSummator\\RouteDataProvider.cs",
               "RelativeDocumentMoniker": "RouteDataProvider.cs",
@@ -126,6 +171,12 @@
               "DocumentMoniker": "C:\\Files\\Work\\os\\RouteSummator\\Point.cs",
               "RelativeDocumentMoniker": "Point.cs",
               "ToolTip": "C:\\Files\\Work\\os\\RouteSummator\\Point.cs",
+=======
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Files\\for-uni\\os\\RouteSummator\\Point.cs",
+              "RelativeDocumentMoniker": "Point.cs",
+              "ToolTip": "C:\\Files\\for-uni\\os\\RouteSummator\\Point.cs",
+>>>>>>> 37968f6effea842e2fc493f1e11f48a923bc24db
               "RelativeToolTip": "Point.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
