@@ -6,23 +6,18 @@ using System.Threading.Tasks;
 
 namespace RouteSummator
 {
-    public class Route : IRoute
+    public class RouteStorage
     {
-        private List<Point> _points;
+        private List<Route> _routes;
 
-        public Route()
+        public RouteStorage()
         {
-            _points = new List<Point>();
+            _routes = new List<Route>();
         }
 
         public void Fill()
         {
 
-        }
-
-        private double CalculateLength()
-        {
-            return 0.0;
         }
     }
 }
