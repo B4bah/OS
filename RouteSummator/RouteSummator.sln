@@ -1,8 +1,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.5.2.0
+# Visual Studio Version 18
+VisualStudioVersion = 18.4.11626.88 stable
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteSummator", "RouteSummator.csproj", "{DF29F655-9ED3-228B-651D-9C41ECA7498E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteSummator", "RouteSummator.csproj", "{B1015F2C-5F61-406A-9AE8-2433C5869F3A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -10,10 +10,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DF29F655-9ED3-228B-651D-9C41ECA7498E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DF29F655-9ED3-228B-651D-9C41ECA7498E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DF29F655-9ED3-228B-651D-9C41ECA7498E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DF29F655-9ED3-228B-651D-9C41ECA7498E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1015F2C-5F61-406A-9AE8-2433C5869F3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1015F2C-5F61-406A-9AE8-2433C5869F3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1015F2C-5F61-406A-9AE8-2433C5869F3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1015F2C-5F61-406A-9AE8-2433C5869F3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -15,9 +15,9 @@ namespace RouteSummator
             _points = new List<Point>();
         }
 
-        public void Fill(List<Point> points)
+        public void Fill()
         {
-            _points = new List<Point>(points);
+
         }
 
         private double CalculateLength()

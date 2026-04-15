@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace RouteSummator
 {
-    public interface IRoute
+    public delegate RouteVisitor(Route route);
+    public interface IRouteDataProvider
     {
-        void Fill();
+        void VisitRoute(RouteVisitor routeVisitor);
     }
 }
