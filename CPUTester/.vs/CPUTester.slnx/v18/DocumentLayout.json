@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{8499048A-D372-4F55-B6B9-01681B3714A6}|CPUTester.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8499048A-D372-4F55-B6B9-01681B3714A6}|CPUTester.csproj|c:\\files\\work\\os\\cputester\\burnthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8499048A-D372-4F55-B6B9-01681B3714A6}|CPUTester.csproj|C:\\Files\\Work\\os\\CPUTester\\burnthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8499048A-D372-4F55-B6B9-01681B3714A6}|CPUTester.csproj|solutionrelative:burnthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8499048A-D372-4F55-B6B9-01681B3714A6}|CPUTester.csproj|c:\\files\\work\\os\\cputester\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8499048A-D372-4F55-B6B9-01681B3714A6}|CPUTester.csproj|C:\\Files\\Work\\os\\CPUTester\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8499048A-D372-4F55-B6B9-01681B3714A6}|CPUTester.csproj|solutionrelative:loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Files\\Work\\os\\CPUTester\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-02T05:54:43.683Z",
               "IsPinned": true,
@@ -46,7 +46,7 @@
               "RelativeDocumentMoniker": "BurnThread.cs",
               "ToolTip": "C:\\Files\\Work\\os\\CPUTester\\BurnThread.cs",
               "RelativeToolTip": "BurnThread.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA4wBQAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-02T06:33:03.583Z",
               "IsPinned": true,
@@ -62,8 +62,7 @@
               "RelativeToolTip": "Loader.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T05:55:59.909Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T05:55:59.909Z"
             }
           ]
         }

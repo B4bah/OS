@@ -1,0 +1,7 @@
+C:\Files\Work\os\CPUBurner\bin\Debug\CPUBurner.exe.config
+C:\Files\Work\os\CPUBurner\bin\Debug\CPUBurner.exe
+C:\Files\Work\os\CPUBurner\bin\Debug\CPUBurner.pdb
+C:\Files\Work\os\CPUBurner\obj\Debug\CPUBurner.csproj.AssemblyReference.cache
+C:\Files\Work\os\CPUBurner\obj\Debug\CPUBurner.csproj.CoreCompileInputs.cache
+C:\Files\Work\os\CPUBurner\obj\Debug\CPUBurner.exe
+C:\Files\Work\os\CPUBurner\obj\Debug\CPUBurner.pdb
