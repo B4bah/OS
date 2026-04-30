@@ -1,0 +1,7 @@
+C:\Files\Work\os\GenPrinter-2\bin\Debug\GenPrinter-2.exe.config
+C:\Files\Work\os\GenPrinter-2\bin\Debug\GenPrinter-2.exe
+C:\Files\Work\os\GenPrinter-2\bin\Debug\GenPrinter-2.pdb
+C:\Files\Work\os\GenPrinter-2\obj\Debug\GenPrinter-2.csproj.AssemblyReference.cache
+C:\Files\Work\os\GenPrinter-2\obj\Debug\GenPrinter-2.csproj.CoreCompileInputs.cache
+C:\Files\Work\os\GenPrinter-2\obj\Debug\GenPrinter-2.exe
+C:\Files\Work\os\GenPrinter-2\obj\Debug\GenPrinter-2.pdb

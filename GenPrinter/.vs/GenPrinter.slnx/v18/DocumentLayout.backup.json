@@ -3,19 +3,19 @@
   "WorkspaceRootPath": "C:\\Files\\Work\\os\\GenPrinter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D71542EF-42FD-40BE-9DF8-0A95113ACE8B}|GenPrinter.csproj|c:\\files\\work\\os\\genprinter\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D71542EF-42FD-40BE-9DF8-0A95113ACE8B}|GenPrinter.csproj|C:\\Files\\Work\\os\\GenPrinter\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D71542EF-42FD-40BE-9DF8-0A95113ACE8B}|GenPrinter.csproj|solutionrelative:printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D71542EF-42FD-40BE-9DF8-0A95113ACE8B}|GenPrinter.csproj|C:\\Files\\Work\\os\\GenPrinter\\intgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D71542EF-42FD-40BE-9DF8-0A95113ACE8B}|GenPrinter.csproj|solutionrelative:intgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D71542EF-42FD-40BE-9DF8-0A95113ACE8B}|GenPrinter.csproj|c:\\files\\work\\os\\genprinter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D71542EF-42FD-40BE-9DF8-0A95113ACE8B}|GenPrinter.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D71542EF-42FD-40BE-9DF8-0A95113ACE8B}|GenPrinter.csproj|c:\\files\\work\\os\\genprinter\\intgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D71542EF-42FD-40BE-9DF8-0A95113ACE8B}|GenPrinter.csproj|solutionrelative:intgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D71542EF-42FD-40BE-9DF8-0A95113ACE8B}|GenPrinter.csproj|c:\\files\\work\\os\\genprinter\\activeobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D71542EF-42FD-40BE-9DF8-0A95113ACE8B}|GenPrinter.csproj|C:\\Files\\Work\\os\\GenPrinter\\activeobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D71542EF-42FD-40BE-9DF8-0A95113ACE8B}|GenPrinter.csproj|solutionrelative:activeobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,7 +30,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Files\\Work\\os\\GenPrinter\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -44,13 +44,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "IntGenerator.cs",
               "DocumentMoniker": "C:\\Files\\Work\\os\\GenPrinter\\IntGenerator.cs",
               "RelativeDocumentMoniker": "IntGenerator.cs",
               "ToolTip": "C:\\Files\\Work\\os\\GenPrinter\\IntGenerator.cs",
               "RelativeToolTip": "IntGenerator.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T07:25:23.854Z",
               "IsPinned": true,
@@ -64,7 +64,7 @@
               "RelativeDocumentMoniker": "Printer.cs",
               "ToolTip": "C:\\Files\\Work\\os\\GenPrinter\\Printer.cs",
               "RelativeToolTip": "Printer.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T07:01:21.351Z",
               "IsPinned": true,
@@ -81,8 +81,7 @@
               "ViewState": "AgIAAA4AAAAAAAAAAAA2wCAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T07:23:12.391Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             }
           ]
         }

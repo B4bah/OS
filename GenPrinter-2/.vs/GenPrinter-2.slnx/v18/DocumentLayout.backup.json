@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Files\\Work\\os\\GenPrinter-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8535B22D-4012-4F1E-B31A-A8ECCF1F9D04}|GenPrinter-2.csproj|c:\\files\\work\\os\\genprinter-2\\activeobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8535B22D-4012-4F1E-B31A-A8ECCF1F9D04}|GenPrinter-2.csproj|solutionrelative:activeobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8535B22D-4012-4F1E-B31A-A8ECCF1F9D04}|GenPrinter-2.csproj|c:\\files\\work\\os\\genprinter-2\\generatorint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8535B22D-4012-4F1E-B31A-A8ECCF1F9D04}|GenPrinter-2.csproj|solutionrelative:generatorint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8535B22D-4012-4F1E-B31A-A8ECCF1F9D04}|GenPrinter-2.csproj|c:\\files\\work\\os\\genprinter-2\\blockingbuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8535B22D-4012-4F1E-B31A-A8ECCF1F9D04}|GenPrinter-2.csproj|solutionrelative:blockingbuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8535B22D-4012-4F1E-B31A-A8ECCF1F9D04}|GenPrinter-2.csproj|c:\\files\\work\\os\\genprinter-2\\squarer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8535B22D-4012-4F1E-B31A-A8ECCF1F9D04}|GenPrinter-2.csproj|solutionrelative:squarer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8535B22D-4012-4F1E-B31A-A8ECCF1F9D04}|GenPrinter-2.csproj|c:\\files\\work\\os\\genprinter-2\\printerint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8535B22D-4012-4F1E-B31A-A8ECCF1F9D04}|GenPrinter-2.csproj|solutionrelative:printerint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8535B22D-4012-4F1E-B31A-A8ECCF1F9D04}|GenPrinter-2.csproj|c:\\files\\work\\os\\genprinter-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8535B22D-4012-4F1E-B31A-A8ECCF1F9D04}|GenPrinter-2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Files\\Work\\os\\GenPrinter-2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Files\\Work\\os\\GenPrinter-2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T06:00:41.716Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlockingBuffer.cs",
+              "DocumentMoniker": "C:\\Files\\Work\\os\\GenPrinter-2\\BlockingBuffer.cs",
+              "RelativeDocumentMoniker": "BlockingBuffer.cs",
+              "ToolTip": "C:\\Files\\Work\\os\\GenPrinter-2\\BlockingBuffer.cs",
+              "RelativeToolTip": "BlockingBuffer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T06:49:45.593Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ActiveObject.cs",
+              "DocumentMoniker": "C:\\Files\\Work\\os\\GenPrinter-2\\ActiveObject.cs",
+              "RelativeDocumentMoniker": "ActiveObject.cs",
+              "ToolTip": "C:\\Files\\Work\\os\\GenPrinter-2\\ActiveObject.cs",
+              "RelativeToolTip": "ActiveObject.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T06:03:45.153Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeneratorInt.cs",
+              "DocumentMoniker": "C:\\Files\\Work\\os\\GenPrinter-2\\GeneratorInt.cs",
+              "RelativeDocumentMoniker": "GeneratorInt.cs",
+              "ToolTip": "C:\\Files\\Work\\os\\GenPrinter-2\\GeneratorInt.cs",
+              "RelativeToolTip": "GeneratorInt.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T06:00:57.073Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrinterInt.cs",
+              "DocumentMoniker": "C:\\Files\\Work\\os\\GenPrinter-2\\PrinterInt.cs",
+              "RelativeDocumentMoniker": "PrinterInt.cs",
+              "ToolTip": "C:\\Files\\Work\\os\\GenPrinter-2\\PrinterInt.cs",
+              "RelativeToolTip": "PrinterInt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T06:01:11.947Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Squarer.cs",
+              "DocumentMoniker": "C:\\Files\\Work\\os\\GenPrinter-2\\Squarer.cs",
+              "RelativeDocumentMoniker": "Squarer.cs",
+              "ToolTip": "C:\\Files\\Work\\os\\GenPrinter-2\\Squarer.cs",
+              "RelativeToolTip": "Squarer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:20:38.951Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
