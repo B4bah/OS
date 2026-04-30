@@ -5,3 +5,10 @@ C:\Files\Work\os\GenPrinter-2\obj\Debug\GenPrinter-2.csproj.AssemblyReference.ca
 C:\Files\Work\os\GenPrinter-2\obj\Debug\GenPrinter-2.csproj.CoreCompileInputs.cache
 C:\Files\Work\os\GenPrinter-2\obj\Debug\GenPrinter-2.exe
 C:\Files\Work\os\GenPrinter-2\obj\Debug\GenPrinter-2.pdb
+C:\Files\for-uni\os\GenPrinter-2\obj\Debug\GenPrinter-2.csproj.AssemblyReference.cache
+C:\Files\for-uni\os\GenPrinter-2\obj\Debug\GenPrinter-2.csproj.CoreCompileInputs.cache
+C:\Files\for-uni\os\GenPrinter-2\obj\Debug\GenPrinter-2.exe
+C:\Files\for-uni\os\GenPrinter-2\obj\Debug\GenPrinter-2.pdb
+C:\Files\for-uni\os\GenPrinter-2\bin\Debug\GenPrinter-2.exe.config
+C:\Files\for-uni\os\GenPrinter-2\bin\Debug\GenPrinter-2.exe
+C:\Files\for-uni\os\GenPrinter-2\bin\Debug\GenPrinter-2.pdb
