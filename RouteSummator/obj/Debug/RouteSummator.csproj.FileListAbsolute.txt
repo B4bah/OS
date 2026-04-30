@@ -1,0 +1,7 @@
+C:\Files\for-uni\os\RouteSummator\bin\Debug\RouteSummator.exe.config
+C:\Files\for-uni\os\RouteSummator\bin\Debug\RouteSummator.exe
+C:\Files\for-uni\os\RouteSummator\bin\Debug\RouteSummator.pdb
+C:\Files\for-uni\os\RouteSummator\obj\Debug\RouteSummator.csproj.AssemblyReference.cache
+C:\Files\for-uni\os\RouteSummator\obj\Debug\RouteSummator.csproj.CoreCompileInputs.cache
+C:\Files\for-uni\os\RouteSummator\obj\Debug\RouteSummator.exe
+C:\Files\for-uni\os\RouteSummator\obj\Debug\RouteSummator.pdb
