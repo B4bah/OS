@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RouteSummator
 {
-    public delegate RouteVisitor(Route route);
+    public delegate void RouteVisitor(Route route);
     public interface IRouteDataProvider
     {
         void VisitRoute(RouteVisitor routeVisitor);
