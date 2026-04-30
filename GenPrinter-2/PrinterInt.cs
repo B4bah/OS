@@ -9,21 +9,19 @@ namespace GenPrinter_2
 {
     public class PrinterInt : ActiveObject
     {
-        //BlockingBuffer<int> _squaredBuffer;
+        private BlockingBuffer<int> _in;
 
-        //public PrinterInt(BlockingBuffer<int> squaredBuffer)
-        //{
-        //    _squaredBuffer = squaredBuffer;
-        //}
+        public PrinterInt(BlockingBuffer<int> inBuff)
+        {
+            _in = inBuff;
+        }
 
-        //protected override void Run()
-        //{
-        //    while(!IsStopped)
-        //    {
-        //        Console.WriteLine(_squaredBuffer.Pop());
-        //    }
-        //}
-
-        private 
+        protected override void Run()
+        {
+            while(!IsStopped)
+            {
+                Console.WriteLine(_in.Pop());
+            }
+        }
     }
 }

@@ -10,22 +10,6 @@ namespace GenPrinter_2
 {
     public class GeneratorInt :ActiveObject
     {
-        //private BlockingBuffer<int> _buffer;
-        //public GeneratorInt(BlockingBuffer<int> buffer)
-        //{
-        //    _buffer = buffer;
-        //}
-
-        //protected override void Run()
-        //{
-        //    int sum = 0;
-        //    while (!IsStopped)
-        //    {
-        //        _buffer.Add(sum++);
-        //        Thread.Sleep(1000);
-        //    }
-        //}
-
         private BlockingBuffer<int> _buffer;
 
         public BlockingBuffer<int> Out { get { return _buffer; }  }
@@ -42,7 +26,6 @@ namespace GenPrinter_2
             while(!IsStopped)
             {
                 _buffer.Add(sum++);
-                Thread.Sleep(1000);
             }
         }
     }

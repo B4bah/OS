@@ -14,14 +14,8 @@ namespace GenPrinter_2
         {
             const int bufferSize = 1000;
 
-            //BlockingBuffer<int> normalBuffer = new BlockingBuffer<int>(bufferSize);
-            //BlockingBuffer<int> squaredBuffer = new BlockingBuffer<int>(bufferSize);
-
-            //GeneratorInt generator = new GeneratorInt(normalBuffer);
-            //Squarer squarer = new Squarer(normalBuffer, squaredBuffer);
-            //PrinterInt printer = new PrinterInt(squaredBuffer);
-            GeneratorInt generator = new GeneratorInt(Squarer.In);
-            Squarer squarer = new Squarer(generator.Out);
+            GeneratorInt generator = new GeneratorInt(bufferSize);
+            SquarerInt squarer = new SquarerInt(generator.Out, bufferSize);
             PrinterInt printer = new PrinterInt(squarer.Out);
 
             generator.Start();
