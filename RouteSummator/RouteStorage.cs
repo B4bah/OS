@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Text;
 
 namespace RouteSummator
 {
@@ -13,18 +14,21 @@ namespace RouteSummator
             _routes = new List<Route>();
         }
 
-        public IReadOnlyList<Route> Routes => _routes;
-
         public void Fill()
         {
-            // Очищаем текущий список
             _routes.Clear();
+            _dataProvider.VisitRoute(route => _routes.Add(route));
+        }
 
-            // Используем визитёр: для каждого прочитанного маршрута добавляем его в хранилище
-            _dataProvider.VisitRoute(route =>
+        public override string ToString()
+        {
+            var sb = new StringBuilder();
+            sb.AppendLine($"Uploaded routes count: {_routes.Count}");
+            for (int i = 0; i < _routes.Count; i++)
             {
-                _routes.Add(route);
-            });
+                sb.AppendLine($"Route {i + 1}: {_routes[i]}");
+            }
+            return sb.ToString().TrimEnd();
         }
     }
 }

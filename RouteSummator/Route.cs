@@ -12,21 +12,12 @@ namespace RouteSummator
             _points = new List<Point>();
         }
 
-        public IReadOnlyList<Point> Points => _points;
-
         public void AddPoint(Point point)
         {
             _points.Add(point);
         }
 
-        public void Fill()
-        {
-            // В данной реализации заполнение происходит через AddPoint из RouteDataProvider,
-            // поэтому метод можно оставить пустым или удалить, если он не требуется.
-            // Если нужна другая логика, реализуйте здесь.
-        }
-
-        public double CalculateLength()
+        private double CalculateLength()
         {
             if (_points.Count < 2)
                 return 0.0;
@@ -41,6 +32,11 @@ namespace RouteSummator
                 length += Math.Sqrt(dx * dx + dy * dy);
             }
             return length;
+        }
+
+        public override string ToString()
+        {
+            return $"length = {CalculateLength():F2}";
         }
     }
 }

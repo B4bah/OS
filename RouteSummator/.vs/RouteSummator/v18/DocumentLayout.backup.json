@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Files\\for-uni\\os\\RouteSummator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1015F2C-5F61-406A-9AE8-2433C5869F3A}|RouteSummator.csproj|C:\\Files\\for-uni\\os\\RouteSummator\\routedataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B1015F2C-5F61-406A-9AE8-2433C5869F3A}|RouteSummator.csproj|C:\\Files\\for-uni\\os\\RouteSummator\\iroutedataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1015F2C-5F61-406A-9AE8-2433C5869F3A}|RouteSummator.csproj|solutionrelative:iroutedataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1015F2C-5F61-406A-9AE8-2433C5869F3A}|RouteSummator.csproj|C:\\Files\\for-uni\\os\\RouteSummator\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1015F2C-5F61-406A-9AE8-2433C5869F3A}|RouteSummator.csproj|solutionrelative:point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1015F2C-5F61-406A-9AE8-2433C5869F3A}|RouteSummator.csproj|c:\\files\\for-uni\\os\\routesummator\\routedataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1015F2C-5F61-406A-9AE8-2433C5869F3A}|RouteSummator.csproj|solutionrelative:routedataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1015F2C-5F61-406A-9AE8-2433C5869F3A}|RouteSummator.csproj|C:\\Files\\for-uni\\os\\RouteSummator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1015F2C-5F61-406A-9AE8-2433C5869F3A}|RouteSummator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1015F2C-5F61-406A-9AE8-2433C5869F3A}|RouteSummator.csproj|C:\\Files\\for-uni\\os\\RouteSummator\\routestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1015F2C-5F61-406A-9AE8-2433C5869F3A}|RouteSummator.csproj|solutionrelative:routestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B1015F2C-5F61-406A-9AE8-2433C5869F3A}|RouteSummator.csproj|C:\\Files\\for-uni\\os\\RouteSummator\\iroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,12 +23,12 @@
       "RelativeMoniker": "D:0:0:{B1015F2C-5F61-406A-9AE8-2433C5869F3A}|RouteSummator.csproj|solutionrelative:route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1015F2C-5F61-406A-9AE8-2433C5869F3A}|RouteSummator.csproj|c:\\files\\for-uni\\os\\routesummator\\iroutedataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1015F2C-5F61-406A-9AE8-2433C5869F3A}|RouteSummator.csproj|solutionrelative:iroutedataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1015F2C-5F61-406A-9AE8-2433C5869F3A}|RouteSummator.csproj|C:\\Files\\for-uni\\os\\RouteSummator\\routestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1015F2C-5F61-406A-9AE8-2433C5869F3A}|RouteSummator.csproj|solutionrelative:routestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1015F2C-5F61-406A-9AE8-2433C5869F3A}|RouteSummator.csproj|C:\\Files\\for-uni\\os\\RouteSummator\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1015F2C-5F61-406A-9AE8-2433C5869F3A}|RouteSummator.csproj|solutionrelative:point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1015F2C-5F61-406A-9AE8-2433C5869F3A}|RouteSummator.csproj|C:\\Files\\for-uni\\os\\RouteSummator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1015F2C-5F61-406A-9AE8-2433C5869F3A}|RouteSummator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,17 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Files\\for-uni\\os\\RouteSummator\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Files\\for-uni\\os\\RouteSummator\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-11T13:08:19.491Z",
               "IsPinned": true,
@@ -56,13 +56,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "RouteStorage.cs",
               "DocumentMoniker": "C:\\Files\\for-uni\\os\\RouteSummator\\RouteStorage.cs",
               "RelativeDocumentMoniker": "RouteStorage.cs",
               "ToolTip": "C:\\Files\\for-uni\\os\\RouteSummator\\RouteStorage.cs",
               "RelativeToolTip": "RouteStorage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-11T13:08:36.427Z",
               "IsPinned": true,
@@ -76,7 +76,7 @@
               "RelativeDocumentMoniker": "Route.cs",
               "ToolTip": "C:\\Files\\for-uni\\os\\RouteSummator\\Route.cs",
               "RelativeToolTip": "Route.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-11T13:08:33.741Z",
               "IsPinned": true,
@@ -90,7 +90,7 @@
               "RelativeDocumentMoniker": "IRoute.cs",
               "ToolTip": "C:\\Files\\for-uni\\os\\RouteSummator\\IRoute.cs",
               "RelativeToolTip": "IRoute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-11T13:08:29.009Z",
               "IsPinned": true,
@@ -98,13 +98,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "RouteDataProvider.cs",
               "DocumentMoniker": "C:\\Files\\for-uni\\os\\RouteSummator\\RouteDataProvider.cs",
               "RelativeDocumentMoniker": "RouteDataProvider.cs",
               "ToolTip": "C:\\Files\\for-uni\\os\\RouteSummator\\RouteDataProvider.cs",
               "RelativeToolTip": "RouteDataProvider.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-11T13:08:34.971Z",
               "IsPinned": true,
@@ -112,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Point.cs",
               "DocumentMoniker": "C:\\Files\\for-uni\\os\\RouteSummator\\Point.cs",
               "RelativeDocumentMoniker": "Point.cs",
@@ -121,17 +121,18 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-11T13:08:31.13Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "IRouteDataProvider.cs",
               "DocumentMoniker": "C:\\Files\\for-uni\\os\\RouteSummator\\IRouteDataProvider.cs",
               "RelativeDocumentMoniker": "IRouteDataProvider.cs",
               "ToolTip": "C:\\Files\\for-uni\\os\\RouteSummator\\IRouteDataProvider.cs",
               "RelativeToolTip": "IRouteDataProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-11T13:10:56.428Z",
               "EditorCaption": ""
