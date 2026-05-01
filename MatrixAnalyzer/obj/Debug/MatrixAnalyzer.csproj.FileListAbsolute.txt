@@ -1,0 +1,7 @@
+C:\Files\for-uni\os\MatrixAnalyzer\obj\Debug\MatrixAnalyzer.csproj.AssemblyReference.cache
+C:\Files\for-uni\os\MatrixAnalyzer\obj\Debug\MatrixAnalyzer.csproj.CoreCompileInputs.cache
+C:\Files\for-uni\os\MatrixAnalyzer\bin\Debug\MatrixAnalyzer.exe.config
+C:\Files\for-uni\os\MatrixAnalyzer\bin\Debug\MatrixAnalyzer.exe
+C:\Files\for-uni\os\MatrixAnalyzer\bin\Debug\MatrixAnalyzer.pdb
+C:\Files\for-uni\os\MatrixAnalyzer\obj\Debug\MatrixAnalyzer.exe
+C:\Files\for-uni\os\MatrixAnalyzer\obj\Debug\MatrixAnalyzer.pdb
