@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Files\\for-uni\\os\\ListSummatorAsync\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BDA920-BD7C-4ECD-87B6-B7F0F92391BE}|ListSummatorAsync.csproj|c:\\files\\for-uni\\os\\listsummatorasync\\arraymath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9BDA920-BD7C-4ECD-87B6-B7F0F92391BE}|ListSummatorAsync.csproj|solutionrelative:arraymath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BDA920-BD7C-4ECD-87B6-B7F0F92391BE}|ListSummatorAsync.csproj|c:\\files\\for-uni\\os\\listsummatorasync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9BDA920-BD7C-4ECD-87B6-B7F0F92391BE}|ListSummatorAsync.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Files\\for-uni\\os\\ListSummatorAsync\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Files\\for-uni\\os\\ListSummatorAsync\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T00:19:18.288Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArrayMath.cs",
+              "DocumentMoniker": "C:\\Files\\for-uni\\os\\ListSummatorAsync\\ArrayMath.cs",
+              "RelativeDocumentMoniker": "ArrayMath.cs",
+              "ToolTip": "C:\\Files\\for-uni\\os\\ListSummatorAsync\\ArrayMath.cs",
+              "RelativeToolTip": "ArrayMath.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T01:26:24.693Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

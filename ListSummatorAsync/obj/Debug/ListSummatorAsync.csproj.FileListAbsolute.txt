@@ -1,0 +1,7 @@
+C:\Files\for-uni\os\ListSummatorAsync\bin\Debug\ListSummatorAsync.exe.config
+C:\Files\for-uni\os\ListSummatorAsync\bin\Debug\ListSummatorAsync.exe
+C:\Files\for-uni\os\ListSummatorAsync\bin\Debug\ListSummatorAsync.pdb
+C:\Files\for-uni\os\ListSummatorAsync\obj\Debug\ListSummatorAsync.csproj.AssemblyReference.cache
+C:\Files\for-uni\os\ListSummatorAsync\obj\Debug\ListSummatorAsync.csproj.CoreCompileInputs.cache
+C:\Files\for-uni\os\ListSummatorAsync\obj\Debug\ListSummatorAsync.exe
+C:\Files\for-uni\os\ListSummatorAsync\obj\Debug\ListSummatorAsync.pdb
