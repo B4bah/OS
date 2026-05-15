@@ -1,0 +1,15 @@
+C:\Files\Work\os\TestBooks\obj\Debug\net10.0\TestBooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Files\Work\os\TestBooks\obj\Debug\net10.0\TestBooks.AssemblyInfoInputs.cache
+C:\Files\Work\os\TestBooks\obj\Debug\net10.0\TestBooks.AssemblyInfo.cs
+C:\Files\Work\os\TestBooks\obj\Debug\net10.0\TestBooks.csproj.CoreCompileInputs.cache
+C:\Files\Work\os\TestBooks\obj\Debug\net10.0\TestBooks.sourcelink.json
+C:\Files\Work\os\TestBooks\bin\Debug\net10.0\TestBooks.exe
+C:\Files\Work\os\TestBooks\bin\Debug\net10.0\TestBooks.deps.json
+C:\Files\Work\os\TestBooks\bin\Debug\net10.0\TestBooks.runtimeconfig.json
+C:\Files\Work\os\TestBooks\bin\Debug\net10.0\TestBooks.dll
+C:\Files\Work\os\TestBooks\bin\Debug\net10.0\TestBooks.pdb
+C:\Files\Work\os\TestBooks\obj\Debug\net10.0\TestBooks.dll
+C:\Files\Work\os\TestBooks\obj\Debug\net10.0\refint\TestBooks.dll
+C:\Files\Work\os\TestBooks\obj\Debug\net10.0\TestBooks.pdb
+C:\Files\Work\os\TestBooks\obj\Debug\net10.0\TestBooks.genruntimeconfig.cache
+C:\Files\Work\os\TestBooks\obj\Debug\net10.0\ref\TestBooks.dll
