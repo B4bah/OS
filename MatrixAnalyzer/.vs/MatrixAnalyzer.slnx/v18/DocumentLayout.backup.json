@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Files\\for-uni\\os\\MatrixAnalyzer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{166C8768-4938-47A5-B506-410D9BF28FEF}|MatrixAnalyzer.csproj|c:\\files\\for-uni\\os\\matrixanalyzer\\imatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{166C8768-4938-47A5-B506-410D9BF28FEF}|MatrixAnalyzer.csproj|solutionrelative:imatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166C8768-4938-47A5-B506-410D9BF28FEF}|MatrixAnalyzer.csproj|c:\\files\\for-uni\\os\\matrixanalyzer\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{166C8768-4938-47A5-B506-410D9BF28FEF}|MatrixAnalyzer.csproj|solutionrelative:matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166C8768-4938-47A5-B506-410D9BF28FEF}|MatrixAnalyzer.csproj|c:\\files\\for-uni\\os\\matrixanalyzer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{166C8768-4938-47A5-B506-410D9BF28FEF}|MatrixAnalyzer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Files\\for-uni\\os\\MatrixAnalyzer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Files\\for-uni\\os\\MatrixAnalyzer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T23:19:20.697Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Matrix.cs",
+              "DocumentMoniker": "C:\\Files\\for-uni\\os\\MatrixAnalyzer\\Matrix.cs",
+              "RelativeDocumentMoniker": "Matrix.cs",
+              "ToolTip": "C:\\Files\\for-uni\\os\\MatrixAnalyzer\\Matrix.cs",
+              "RelativeToolTip": "Matrix.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T23:19:47.486Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IMatrix.cs",
+              "DocumentMoniker": "C:\\Files\\for-uni\\os\\MatrixAnalyzer\\IMatrix.cs",
+              "RelativeDocumentMoniker": "IMatrix.cs",
+              "ToolTip": "C:\\Files\\for-uni\\os\\MatrixAnalyzer\\IMatrix.cs",
+              "RelativeToolTip": "IMatrix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T23:20:08.587Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

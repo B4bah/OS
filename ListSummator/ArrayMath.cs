@@ -16,8 +16,6 @@ namespace ListSummator
             }
         }
 
-
-
         public static double Sum(double[] numbers)
         {
             double result = 0;

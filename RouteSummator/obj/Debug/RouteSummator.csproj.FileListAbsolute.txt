@@ -5,3 +5,4 @@ C:\Files\for-uni\os\RouteSummator\obj\Debug\RouteSummator.csproj.AssemblyReferen
 C:\Files\for-uni\os\RouteSummator\obj\Debug\RouteSummator.csproj.CoreCompileInputs.cache
 C:\Files\for-uni\os\RouteSummator\obj\Debug\RouteSummator.exe
 C:\Files\for-uni\os\RouteSummator\obj\Debug\RouteSummator.pdb
+C:\Files\for-uni\os\RouteSummator\bin\Debug\points.txt
